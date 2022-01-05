@@ -517,11 +517,11 @@ header {
     width: 100%;
     border-radius: 0.6em;
   }
-  #default-imgg{
+  #default-imgg,#default-imgg-2{
     
      opacity: 0.3;
   }
-  #first-img{
+  #first-img,#first-img-2{
     border: 1.5px solid hsl(26, 100%, 55%);
     border-radius:  0.6em;
   }
