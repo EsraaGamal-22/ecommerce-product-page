@@ -318,6 +318,7 @@ header {
   }
   h3 {
     font-size: 0.8rem;
+    
   }
   .container {
     width: 90%;
@@ -515,5 +516,13 @@ header {
   .slidder img {
     width: 100%;
     border-radius: 0.6em;
+  }
+  #default-imgg{
+    
+     opacity: 0.3;
+  }
+  #first-img{
+    border: 1.5px solid hsl(26, 100%, 55%);
+    border-radius:  0.6em;
   }
 }
