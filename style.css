@@ -358,7 +358,7 @@ header {
   }
   .shop-card-info {
     width: 40%;
-    justify-content: right;
+    justify-content: flex-end;
   }
   .shop-card-info img {
     width: 10%;
